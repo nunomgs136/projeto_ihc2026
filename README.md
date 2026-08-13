@@ -16,8 +16,9 @@
 
 | Nome completo | Matrícula | GitHub | Responsabilidade principal no projeto |
 |---|---:|---|---|
-| {{Nome 1}} | {{matrícula}} | {{@usuario}} | {{...}} |
-| {{Nome 2}} | {{matrícula}} | {{@usuario}} | {{...}} |
+| {{Beatriz Manaia Lourenço Berto}} | {{22.125.060-8}} | {{@beatrizmanaia26}} | {{...}} |
+| {{Luana Bortko Rodrigues}} | {{24.123.006-9}} | {{@luabortko}} | {{...}} |
+| {{Nuno Martins Guilhermino da Silva}} | {{22.126.099-5}} | {{@nunomgs136}} | {{...}} |
 
 ## Resumo do produto
 
