@@ -5,8 +5,8 @@
 
 ## Identificação
 
-**Título do projeto:** CalibraProvas 
-**TCC/projeto de origem:** Estrutura e formatação das provas do ENEM: Impacto no desempenho geral dos participantes
+**Título do projeto:** CalibraProvas  <br>
+**TCC/projeto de origem:** Estrutura e formatação das provas do ENEM: Impacto no desempenho geral dos participantes <br>
 **Orientador(a):** Charles Henrique Porto Ferreira  
 **Disciplina:** Interação Humano-Computador  
 **Instituição:** Centro universitário FEI  
