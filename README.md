@@ -5,20 +5,20 @@
 
 ## Identificação
 
-**Título do projeto:** {{TÍTULO DO PROJETO}}  
-**TCC/projeto de origem:** {{TÍTULO ORIGINAL DO TCC, SE HOUVER}}  
-**Orientador(a):** {{NOME}}  
+**Título do projeto:** CalibraProvas 
+**TCC/projeto de origem:** Estrutura e formatação das provas do ENEM: Impacto no desempenho geral dos participantes
+**Orientador(a):** Charles Henrique Porto Ferreira  
 **Disciplina:** Interação Humano-Computador  
-**Instituição:** {{INSTITUIÇÃO}}  
-**Semestre:** {{ANO/SEMESTRE}}
+**Instituição:** Centro universitário FEI  
+**Semestre:** 8º semestre
 
 ### Equipe
 
 | Nome completo | Matrícula | GitHub | Responsabilidade principal no projeto |
 |---|---:|---|---|
-| {{Beatriz Manaia Lourenço Berto}} | {{22.125.060-8}} | {{@beatrizmanaia26}} | {{...}} |
-| {{Luana Bortko Rodrigues}} | {{24.123.006-9}} | {{@luabortko}} | {{...}} |
-| {{Nuno Martins Guilhermino da Silva}} | {{22.126.099-5}} | {{@nunomgs136}} | {{...}} |
+| Beatriz Manaia Lourenço Berto | 22.125.060-8 | @beatrizmanaia26 | {{...}} |
+| Luana Bortko Rodrigues | 24.123.006-9 | @luabortko | {{...}} |
+| Nuno Martins Guilhermino da Silva | 22.126.099-5 | @nunomgs136 | {{...}} |
 
 ## Resumo do produto
 
@@ -38,8 +38,8 @@ Escreva **um parágrafo curto e concreto** explicando: qual problema é tratado,
 ## Entregas
 
 | # | Entrega | Quantidade mínima / responsabilidade | Status |
-|---:|---|---|---|
-| 1 | [Conhecendo o problema](docs/01_conhecendo_o_problema.md) | 1 solução consolidada por equipe | ⬜ |
+|---:|---|---|---
+| 1 | [Conhecendo o problema](docs/01_conhecendo_o_problema.md) | 1 solução consolidada por equipe | 🟨 |
 | 2 | [Público-alvo e análise de concorrência](docs/02_analise_concorrencia.md) | no mínimo 1 concorrente/interface representativa por integrante + síntese da equipe | ⬜ |
 | 3 | [Personas, empatia, contexto e jornada](docs/03_personas_contexto_jornada.md) | 1 persona por integrante; demais artefatos consolidados por equipe | ⬜ |
 | 4 | [Cenários de análise/problema](docs/04_cenarios_problema.md) | 1 solução completa por integrante | ⬜ |
